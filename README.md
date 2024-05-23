@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas Vindas Ao Meu Perfil 💙
 
-<!--
-**Italo771/italo771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Italo Ikeda
 
-Here are some ideas to get you started:
+- estou estudando na  [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+italomoreira771@gmail.com
+@italomoreira771
+
+
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
